@@ -16,10 +16,10 @@
 
 ### Способ 1: Локальный запуск
 
-git clone https://github.com/dimas2007san-byte/button-status.git
-cd button-status
-pip install -r requirements.txt
-python app.py
+1) git clone https://github.com/dimas2007san-byte/button-status.git
+2) cd button-status
+3) pip install -r requirements.txt
+4) python app.py
 
 Сервер запустится на http://localhost:5000
 
