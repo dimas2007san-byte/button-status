@@ -26,9 +26,3 @@
 ### Веб-интерфейс
 
 Открой в браузере http://localhost:5000/
-
-## Технологии
-
-- Python 3.13
-- Flask
-- Flask-SocketIO
